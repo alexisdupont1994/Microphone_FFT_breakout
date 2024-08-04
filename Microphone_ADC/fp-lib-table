@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Microphone_ADC")(type "KiCad")(uri "${KIPRJMOD}/Footprints/Microphone_ADC.pretty")(options "")(descr ""))
+)
